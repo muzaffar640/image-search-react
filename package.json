@@ -1,5 +1,5 @@
 {
-  "homepage": "https://muzaffar640.github.io/image-search-react-app",
+  "homepage": "http://muzaffar640.github.io/image-search-react",
   "name": "find-image",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "predeploy":"npm run built",
+    "predeploy":"npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
